@@ -7,3 +7,6 @@ Variable and Data type on Python
 
 >> Data Type
    Numbers, string, List, Tuple, Dictionary
+   e.g : x = 5
+         print(x)
+         type(x)
