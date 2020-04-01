@@ -1,2 +1,9 @@
 # python-datatype
-Data type on Python
+Variable and Data type on Python
+
+>> variable
+   Variable write with name then content
+   e.g : x = 'hello python'
+
+>> Data Type
+   Numbers, string, List, Tuple, Dictionary
