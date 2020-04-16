@@ -32,3 +32,15 @@ Variable and Data type on Python
    use capitalize(), replace('string1','string2'), etc
    e.g : x = 'title'
         print(x.capitalize())
+
+>> plus, min, max, round
+   e.g : x = 10
+         y = 20
+         print(x+y) //result 30
+         max(x,y,1,50,2) //result 50
+         min(x,y,1,50,2) //result 1
+
+>> print number and string together
+  e.g : x = 1000
+        print("the price is", x) 
+        print("the price is" + str(x))
