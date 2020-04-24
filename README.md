@@ -1,5 +1,5 @@
-# python-datatype
-Variable and Data type on Python
+# python-basic
+Python Basic understand before study Django / Flask
 
 >> variable
    Variable write with name then content
