@@ -28,4 +28,18 @@ Return on Functions
 def sum(a,b):
     return a + b
 
-print("calculation result", sum(9,5))
+#print("calculation result", sum(9,5))
+
+"""
+*Args, **Kwargs
+"""
+
+def printData(*args):
+    print(args)
+
+def printData2(**kwargs):
+    for key, value in kwargs.items():
+        print(key + " - " + value)
+
+printData('steve','joe')
+printData2(name = 'Jhon', age = '21', hobby = 'jogging')
